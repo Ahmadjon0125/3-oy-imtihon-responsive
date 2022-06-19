@@ -1,0 +1,41 @@
+.holder {
+	padding: 240px 0;
+	background-image: url("../../images/holder-bgi.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center bottom;
+}
+
+.holder__inner {
+	max-width: 490px;
+	width: 100%;
+	margin-left: auto;
+}
+
+.holder__title {
+	margin-bottom: 30px;
+	font-weight: 700;
+	font-size: 50px;
+	line-height: 120%;
+	color: #FFFFFF;
+}
+
+.holder__text {
+	margin-bottom: 30px;
+	padding-left: 40px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 150%;
+	color: #FFFFFF;
+	border-left: 3px solid #FFFFFF;
+}
+
+.holder__link {
+	padding: 12px 46px;
+	background-color: #EA625C;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 150%;
+	color: #FFFFFF;
+	text-decoration: none;
+}

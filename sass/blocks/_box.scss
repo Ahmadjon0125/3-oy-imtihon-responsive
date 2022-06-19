@@ -1,0 +1,39 @@
+.box {
+	padding: 177px 0;
+	background-image: url("../../images/watch-in-hand.png");
+	background-repeat: no-repeat;
+	background-size: 400px 600px;
+	background-position: calc(50% + 560px);
+}
+
+.box__inner {
+	width: 490px;
+}
+
+.box__title {
+	margin-bottom: 30px;
+	font-weight: 700;
+	font-size: 50px;
+	line-height: 120%;
+	color: #000000;
+}
+
+.box__text {
+	margin-bottom: 30px;
+	padding-left: 40px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 150%;
+	color: #777777;
+	border-left: 3px solid #888888;
+}
+
+.box__link {
+	padding: 12px 90px;
+	background-color: #EA625C;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 150%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
